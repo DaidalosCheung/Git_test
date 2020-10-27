@@ -93,3 +93,5 @@ start_time = time.time()
 sortedArray = merge( arrayUnsorted )
 print( sortedArray )
 print("--------- %s seconds ---------" % (time.time() - start_time))
+
+print("This is the 1st version for git")
